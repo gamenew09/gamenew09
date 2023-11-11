@@ -1,4 +1,5 @@
 ### Hi there 👋
+I have a portfolio that you can check out [here](https://gamenew09.com/portfolio/)!
 
 <!--
 **gamenew09/gamenew09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
